@@ -18,7 +18,7 @@
 
 ## 🚀 Запуск бота
 ```bash
-git clone https://github.com/ТВОЙ_НИК/CinemaNexusBot
+git clone https://github.com/CinemaNexusBot/CinemaNexusBot
 cd CinemaNexusBot
 pip install -r requirements.txt
 python main.py
