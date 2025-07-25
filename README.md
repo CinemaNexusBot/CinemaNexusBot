@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🎬 CinemaNexusBot — Телеграм-бот для фильмов
 
-<!--
-**CinemaNexusBot/CinemaNexusBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CinemaNexusBot** — это умный Telegram-бот, который поможет тебе найти, посмотреть и сохранить лучшие фильмы прямо в Телеграме. Новинки, рекомендации, трейлеры и многое другое — всё в одном месте.
 
-Here are some ideas to get you started:
+## 📌 Возможности
+- Поиск фильмов по названию, жанру или году
+- Прямые ссылки на онлайн-просмотр
+- Ежедневные подборки новинок
+- Рекомендации по интересам
+- Сохранение избранного
+- Просмотр трейлеров и постеров
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Технологии
+- Python / aiogram
+- API КиноПоиск / TMDB
+- Telegram Bot API
+- MongoDB / Redis
+
+## 🚀 Запуск бота
+```bash
+git clone https://github.com/ТВОЙ_НИК/CinemaNexusBot
+cd CinemaNexusBot
+pip install -r requirements.txt
+python main.py
